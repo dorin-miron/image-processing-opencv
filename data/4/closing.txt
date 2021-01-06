@@ -1,72 +1,43 @@
-('ee', 6)
-('ae', 6)
-('a', 5)
-('eee', 5)
-('oe', 5)
-('2', 2)
-('Foal', 1)
-('eee\non', 1)
-('=\nae', 1)
-('deme', 1)
-('poe', 1)
-('vee\na', 1)
-('Nentngas', 1)
-('recs', 1)
-('=a', 1)
-('na', 1)
-('=\nZev', 1)
-('ore', 1)
-('ak,', 1)
-('=', 1)
-('gat', 1)
-('sis', 1)
-('cee', 1)
-('bees', 1)
-('j', 1)
-('Seta', 1)
-('=\nt', 1)
-('nee', 1)
-('cr', 1)
-('~\noe', 1)
-('eo', 1)
-('WeT', 1)
-('Ts\nPre', 1)
-('&', 1)
-('fe', 1)
-('Sele', 1)
-('en,', 1)
-('sept.', 1)
-('Se', 1)
-('en', 1)
-('ae\nane', 1)
-('ne', 1)
-('the', 1)
-('ot', 1)
-('ee\neee', 1)
-('om\n=i...', 1)
-('oe\noe', 1)
-('.', 1)
-('—', 1)
-('teen', 1)
-('<2', 1)
-('<a,', 1)
-('See\nte', 1)
-('me', 1)
-('Meet', 1)
-('ape', 1)
-('.Pe', 1)
-('ea', 1)
-('tet', 1)
-('cae', 1)
-('ae\nSpeer', 1)
-('lee', 1)
-('=\n2', 1)
-('ar', 1)
-('<aaauen', 1)
-('se', 1)
-('oS.', 1)
-('mae', 1)
-('ony', 1)
-('-\net', 1)
-('ms', 1)
-('a)', 1)
+- a) :
+Pes ms oe - -
+et Te ony mae oe
+See oS. taal
+oe se eo <aaauen ar Pamen 2 ee =
+2 lee et ae
+Speer - cae -" — =
+i tet ea ems .Pe sie
+i ee ees ape Sc
+| Meet me ST eee TF = SS See
+te ees <a, 20 2 oe
+q <2 teen a — eo =
+ss . Se oe
+oe SS eee esse om
+=i... ee ee
+eee ae a Ae’ ot oe
+ee the ne ol ae
+ane tt eee = =
+ae oe en ee Se ee ee a
+a sept. ae ae ek
+ae en, et ae ’
+i Sele fe a
+ee ee Pe
+aaa & 23° Ts
+Pre e. WeT ee
+I a eo ~
+oe eS ee oa
+a cr nee = =
+t ees Seta a
+= j OTs oe bees aie
+=sa cee ae” sis oe, oe ae
+oe oe gat = ak, a ore Ste =
+Zev na ae ee =a e
+os eee 1 recs ees
+ms a “ Nentngas .
+TST: ae Bo. vee
+a iemelt poe deme oa eee =
+ae ee ew eee
+on “ee! ee a
+Soe Foal eg
+sss
+eet
+

@@ -1,98 +1,32 @@
-('the', 16)
-('of', 10)
-('a', 6)
-('and', 5)
-('are', 3)
-('they', 3)
-('for', 3)
-('that', 3)
-('in', 3)
-('wavelet', 2)
-('vanishing', 2)
-('were', 2)
-('bank', 2)
-('filter', 2)
-('as', 2)
-('used', 2)
-('pass', 2)
-('decomposition', 2)
-('scale', 2)
-('has\nMN', 1)
-('4', 1)
-('An', 1)
-('them', 1)
-('represent', 1)
-('ability', 1)
-('our', 1)
-('smoothness', 1)
-('impact', 1)
-('moments', 1)
-('dx.', 1)
-('&', 1)
-('sp', 1)
-('moment', 1)
-('kth', 1)
-('', 1)
-('show', 1)
-('Figures', 1)
-('(Daubechies', 1)
-('weed', 1)
-('(%', 1)
-('compact', 1)
-('given', 1)
-('number', 1)
-('highest', 1)
-('function', 1)
-('support', 1)
-('least', 1)
-('have', 1)
-('to', 1)
-('designed', 1)
-('perfectly', 1)
-('not', 1)
-('wavelets.”', 1)
-('short', 1)
-('called', 1)
-('family', 1)
-('part', 1)
-('example', 1)
-('preceding', 1)
-('=\nThe', 1)
-('each', 1)
-('at', 1)
-('Wi’,', 1)
-('nature', 1)
-('Note', 1)
-('input', 1)
-('substituted', 1)
-('output', 1)
-('four', 1)
-('through', 1)
-('Each', 1)
-('was', 1)
-('comer', 1)
-('from', 1)
-('when', 1)
-('is', 1)
-('Fig.', 1)
-('filtering', 1)
-('second', 1)
-('original', 1)
-('size', 1)
-('1/16th', 1)
-('-', 1)
-('(d)', 1)
-('two-scale', 1)
-('.', 1)
-('ro', 1)
-('(c)', 1)
-('(b)', 1)
-('*', 1)
-('L', 1)
-('three-scale', 1)
-('Computing', 1)
-('°\nFIGURE', 1)
-('d\na', 1)
-('Dimensions', 1)
-('Transforms', 1)
-('@', 1)
+,
+7.5 @ Wavelet Transforms in Two Dimensions 527
+ab
+F d
+a ee °
+FIGURE 7.25
+; Computing a 2-D
+" three-scale FWT:
+¥ L é * (a) the original
+image; (b) a one-
+' scale FWT; (c) a
+. ro ss . ag two-scale FWT;
+and (d) a three-
+; - scale FWT.
+a)
+aad
+(now 1/16th of the size of the original image) decomposition results that were
+generated in the second filtering pass Finally, Fig. 7.25(d) is the three-scale
+FWT that resulted when the subimage from the upper-left-hand comer of Fig.
+7.25(c) was used as the filter bank input. Each pass through the filter bank pro-
+duced four quarter-size output images that were substituted for the input from
+which they were derived. Note the directioffal nature of the wavelet-based
+subimages, Wi’, Wy, and WQ’ at each scale. =
+The decomposition filters used in the preceding example are part of a well-
+known family of wavelets called symilets, short for “symmetrical wavelets.” Al-
+though they are not perfectly symmetrical, they are designed to have the least — support of a function &
+asymmetry and highest number of vanishing moments’ for a given compact — (% Bicrmlin weed tbe
+support (Daubechies [1992]). Figures 7.26(e) and (f) show the fourth-order  valea
+Te kth moment of wavelet #(1) sp m(k) & fatd(r) dx. Zero moments impact the smoothness of the
+scaling and wavelet functions and our ability (o represent them as polynomials An order- 4 symiet has
+MN vanishing moments
+

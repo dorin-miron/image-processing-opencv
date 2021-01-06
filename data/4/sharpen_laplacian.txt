@@ -1,143 +1,60 @@
-('ae', 8)
-('a', 6)
-('ee', 5)
-('aes', 5)
-('oe', 5)
-('eee', 4)
-('Se', 3)
-('es', 3)
-('eo', 2)
-('be', 2)
-('ea', 2)
-('po', 2)
-('en', 2)
-('os', 2)
-('ieee', 1)
-('Pca', 1)
-('Lc', 1)
-('g', 1)
-('apo', 1)
-('th', 1)
-('Root', 1)
-('NN\n5', 1)
-('Ss', 1)
-('SES', 1)
-('sere\n;', 1)
-('ne', 1)
-('aera', 1)
-('Peery', 1)
-('ye', 1)
-('MRC', 1)
-('See', 1)
-('eg', 1)
-('raceme', 1)
-('pee', 1)
-('MEN', 1)
-('tact', 1)
-('Preece', 1)
-('eu', 1)
-('cat', 1)
-('ponent', 1)
-('ed\nBSI', 1)
-('ees', 1)
-('ABM', 1)
-('aod', 1)
-('nena\ncot', 1)
-('ee\n|', 1)
-('Lee', 1)
-('Creede\nI', 1)
-('G', 1)
-('eer', 1)
-('se', 1)
-('Naa', 1)
-('Nite', 1)
-('coca', 1)
-('ero', 1)
-('abvorenige', 1)
-('Teed\n|', 1)
-('on', 1)
-('pen', 1)
-('Panes', 1)
-('cee', 1)
-('ou\na', 1)
-('ore', 1)
-('pea', 1)
-('u', 1)
-('see', 1)
-('ey', 1)
-('coir', 1)
-('ean', 1)
-('or', 1)
-('yen', 1)
-('Sera', 1)
-('ed', 1)
-('aca', 1)
-('pa', 1)
-('patina', 1)
-('reese,', 1)
-('Po', 1)
-('cauunledmte', 1)
-('i\nSeri', 1)
-('icoaks', 1)
-('aoe', 1)
-('nee', 1)
-('eens', 1)
-('wed', 1)
-('al', 1)
-('i', 1)
-('e', 1)
-('me', 1)
-('aeanennnns\n|', 1)
-('od', 1)
-('tas\nChere', 1)
-('pr', 1)
-('ce', 1)
-('bd', 1)
-('Seu', 1)
-('an', 1)
-('.\nSe', 1)
-('eel', 1)
-('eae', 1)
-('ik', 1)
-('Saree\nca', 1)
-('A', 1)
-('Ree', 1)
-('age', 1)
-('Ee', 1)
-('Bee', 1)
-('Cen', 1)
-('Sol', 1)
-('Ac', 1)
-('ee\nao)', 1)
-('Ecuageesa', 1)
-('Ce', 1)
-('rae', 1)
-('SSE', 1)
-('ge', 1)
-('onsen', 1)
-('Gt', 1)
-('ie', 1)
-('Nsiattaed\nea', 1)
-('cite', 1)
-('Fee', 1)
-('Moran', 1)
-('oh', 1)
-('Ligstos', 1)
-('nnaaircee', 1)
-('Egret', 1)
-('aa', 1)
-('Oe', 1)
-('eae\nBae', 1)
-('epee', 1)
-('eeveruene!\n4', 1)
-('gear', 1)
-('(on', 1)
-('ag', 1)
-('a\n——', 1)
-('hot\nei', 1)
-('.\n=', 1)
-('ree', 1)
-('no', 1)
-('a\nFs', 1)
-('rr', 1)
-('as', 1)
+ae as eae rr aearenaeaeanaEN a
+Fs a no ree 28
+Keo ae m0 .
+= ro hot
+ei |
+ies a (ra
+i a
+—— <9 ag Monee)
+i (on duoc gear ee
+ye eeveruene!
+4 epee yrerayCy os Pec eae
+Bae oe oad en SEaNCaN Oe aa Ales
+4 Egret po eet nnaaircee Se ea 2
+PislefiudisssuyLivy Ligstos oh Clow Moran aR Fee cite Mee Nsiattaed
+ea a ie calc Gt orasee onsen ge meme
+4 SSE pe ae Aue rae enon Ce racaegriee|
+Pa es ae
+a Ecuageesa Se ee
+ao) PSVOrONT Ac ek Se ao% Sol RO ee ee
+ae ae ge
+peso Cen aes pees ee ema
+: Bee eo
+ee Ee age ic Ree eR
+; oe ee A ete Saree
+ca pe, ik pecdonanieg eae a
+eas eel See ae Margate oe Ns .
+Se Paes aes an ee
+' Seu be erm bd tren ce ces
+; pr Rca ee Nears tas
+Chere Cece od aes Feats aeanennnns
+| meno me e i eo
+ele Se etc al wed be kaa eens ne
+Ree oe nee CD aoe ies icoaks exotes, i
+Seri REN cauunledmte en aes oN Po Gace)
+pi reese, patina pa eee aca a
+: eee 2 ed Pca
+: Sera Eee yen [polo or tases ean ey
+a coir oke eee ey ene see eae
+Bayh a u pea ore BN ee aioe ou
+a ea eee cee aon Panes oe ard pen on NOT
+ees aes ee Teed
+| eine abvorenige Dern ero coca Ieee Nite ted
+; Naa se eer Siege G een Creede
+I Cisse Lee a “a ee
+| ee eee Bue nena
+cot po ee aod es ——
+3 ABM ilu eo os acon ees ee ed
+BSI ponent ee ae ae cat are
+! eu aS Preece es eee
+ep tact ae pO MEN Sed pee raceme re
+ei eg eee See Me
+le a eco MRC ye crated Peery mee
+cal eee Eee aera ne eeepc Se ioe sere
+; ee SES | ee PS Ss Nie NN
+5 Root th Pe eo Tena apo ee
+aoe g 2 Lc baneootees
+/ Pca esos) ieee si
+EG)
+Sib)
+

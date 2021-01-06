@@ -1,215 +1,59 @@
-('a', 7)
-('ae', 5)
-('ee', 4)
-('ea', 3)
-('Se', 3)
-('er', 2)
-('oe', 2)
-('he', 2)
-('eee', 2)
-('epee', 2)
-('Pee', 2)
-('en', 2)
-('eon', 2)
-('ie', 2)
-('Rp', 2)
-('Ree', 2)
-('A', 2)
-('Ee', 2)
-('as', 2)
-('ag', 2)
-('te', 2)
-('pee', 2)
-('Pe', 2)
-('rear\n\x0c', 1)
-('ace', 1)
-('Miele', 1)
-('N', 1)
-('Cee', 1)
-('eaeetaS', 1)
-('atee', 1)
-('OL', 1)
-('let', 1)
-('Ase', 1)
-('pa', 1)
-('Pama', 1)
-('ios\naes', 1)
-('snes', 1)
-('locates', 1)
-('SOc', 1)
-('pron', 1)
-('eT', 1)
-('we', 1)
-('eG', 1)
-('me', 1)
-('ternal', 1)
-('pees\ned', 1)
-('bask', 1)
-('ar', 1)
-('akin', 1)
-('hen', 1)
-('ath\nRs', 1)
-('dom', 1)
-('tats', 1)
-('ho', 1)
-('Red', 1)
-('toro', 1)
-('iolopieal', 1)
-('oe\n0', 1)
-('eons', 1)
-('Bee', 1)
-('enolate', 1)
-('NIN', 1)
-('Meee', 1)
-('cure', 1)
-('erie', 1)
-('Coane', 1)
-('eater', 1)
-('snc', 1)
-('see', 1)
-('ra', 1)
-('RSE', 1)
-('prea\nPes', 1)
-('rN', 1)
-('Aro', 1)
-('ted', 1)
-('roth', 1)
-('or', 1)
-('aM', 1)
-('lceee', 1)
-('ind', 1)
-('cere', 1)
-('eina', 1)
-('canine', 1)
-('Rae)', 1)
-('cae\nds', 1)
-('ey', 1)
-('elec', 1)
-('eee\nI', 1)
-(';', 1)
-('rave\nee', 1)
-('Sieeey', 1)
-('foal', 1)
-('RCC', 1)
-('MBIA', 1)
-('and', 1)
-('eperontya', 1)
-('Toone', 1)
-('Or', 1)
-('CNEL', 1)
-('coflsaver', 1)
-('ea\neee', 1)
-('RO', 1)
-('awh', 1)
-('ast', 1)
-('expanctl\npp', 1)
-('gin', 1)
-('Gulltiingdo', 1)
-('Sees', 1)
-('BMT', 1)
-('oars', 1)
-('fe', 1)
-('rom\\seoneearygoeanyan\nee', 1)
-('(pra', 1)
-('Niashucn', 1)
-('parameter', 1)
-('tai', 1)
-('EE', 1)
-('crams', 1)
-('So', 1)
-('eca', 1)
-('eVaCC', 1)
-('Meo', 1)
-('way', 1)
-('igh', 1)
-('bvackingitherA', 1)
-('Saige\nesl', 1)
-('ARO', 1)
-('ATONE', 1)
-('Sa', 1)
-('ere', 1)
-('om', 1)
-('al', 1)
-('reese', 1)
-('Ita\nPe', 1)
-('oekoeteary', 1)
-('heeoe:', 1)
-('ceed\n0', 1)
-('ne', 1)
-('hola', 1)
-('OR', 1)
-('tore', 1)
-('condor', 1)
-('genre', 1)
-('mae', 1)
-('re', 1)
-('gee', 1)
-('eae', 1)
-('ts', 1)
-('eas', 1)
-('acting', 1)
-('tasty', 1)
-('_', 1)
-('coy', 1)
-('evant’', 1)
-('Gasscaa', 1)
-('nn', 1)
-('emcee', 1)
-('Shree', 1)
-('ave', 1)
-('pera', 1)
-('roma', 1)
-('S', 1)
-('[Senn', 1)
-('rey', 1)
-('nicotene', 1)
-('lee', 1)
-('os', 1)
-('cree', 1)
-('dee', 1)
-('cero\n0', 1)
-('shes', 1)
-('possecrets', 1)
-('ni', 1)
-('soon', 1)
-('cime', 1)
-('pea', 1)
-('area', 1)
-('aa', 1)
-('Neca', 1)
-('age', 1)
-('tor', 1)
-('mre', 1)
-('Ge', 1)
-('ree', 1)
-('mraie', 1)
-('ap', 1)
-('on', 1)
-('pear', 1)
-('Oe', 1)
-('et', 1)
-('cenneerepe', 1)
-('hye', 1)
-('Tid\nete', 1)
-('eer', 1)
-('ti', 1)
-('Reece', 1)
-('ea\nPrices)', 1)
-('ein', 1)
-('Tame', 1)
-('eS', 1)
-('Pace', 1)
-('CTs', 1)
-('at', 1)
-('arn\nFecapere', 1)
-('Perce', 1)
-('ANAC', 1)
-('tripe', 1)
-('corporal', 1)
-('cane', 1)
-('annexes', 1)
-('ago', 1)
-('era', 1)
-('BF\nMe', 1)
-('Loe', 1)
-(':', 1)
+: : ae =
+a] Pee aaaas Loe | BF
+Me era MLN ago ded annexes cane eerenN corporal tripe eaanec ANAC CoM
+if} Perce Se arn
+Fecapere at Nc CTs Cee a ee
+ox eee eae ae Pace ee eS oe
+Q Pe ee eas Bata a Tame SPUN ein gom ea
+Prices) Cant Reece ti eer neni Tid
+ete Seep hye a
+ye cenneerepe pets pee a maa
+iT Pe ee et ee Oe ee
+abechparatoaratetieo eee te pear on acy ap MON mraie NIG
+rafal ag ree RO Se Ge emer mre tor aI)
+a as pee ed Ee Bs
+Fe age | Neca aa area pea eRe cime A ec
+pe a St soon ni Suroctted
+Pelican possecrets rorpeRe shes nO) cero
+0 Pos dee Use Ree aed
+ee ee eee
+even cree os lee alae Se a
+a] ee caennicN nicotene omerien rey wagers Rp reeopetiomtcqonnan
+Finney [Senn ae as ea MairfReldsyeould ie S Reo
+Fei roma Ceca pera ave Mle Shree CCN
+eRe) emcee cer eon nao nn emer ee To
+* Gasscaa | Ee eon arcana
+oe en Foserat evant’ an
+Perce en NCE coy Lay _ WoMrCrpo tasty acting eas ts com>
+a Pee enn eae Clee gee Sah epee re SIN
+FR mae genre condor tore ene OR A Near ae eeeN
+PSone ag Rey hola eee ne aoe ceed
+0 ie ou heeoe: (ea oekoeteary fyitionaadiaagraciontuacrtton Ita
+Pe reese ea al om iccmiern ere ale
+fe Sa esoA ATONE RANT ARO SATAN Saige
+esl civaa bvackingitherA scaNp igh way Toni he Mumma Meo Teen eVaCC UTS eca oat
+0 So ipainiectit crams nage oe gL EE eed
+Sewn tai parameter Fatroad Niashucn epetial (pra sel rom\seoneearygoeanyan
+ee Nee fe Nev oars Licraghts BMT eee
+0 Sees denon) Gulltiingdo gin caesarean expanctl
+pp ast grnomnea awh Soe RO eM ea
+eee ind coflsaver pe CNEL Ae Or a
+Gee Toone feeLingrot eperontya and oHibeing MBIA TON RCC foal Conon Sieeey md rave
+ee ore, ; ooo eee
+I ea ec elec cae ey Neste cae
+ds Pee Rae) Poe Rp apne epee canine ay
+pres eina cere rersyr ind «eo lceee euitees aM or ON a G
+jeireea roth capris ted Aro er nent rN Sareea prea
+Pes cen RSE Yianer ra see Ae snc eater oe Pyccroiogane
+Sr te Cece Coane NUE
+Reig erie cure radians Meee Meme NIN aS
+peers enolate Bee ee eons aad oe
+0 Ree ele iolopieal toro SEES Red entor ho Kayy tats dom ard ath
+Rs Seaton hen akin ar hergcarecommmiteckcoloredpmen bask spprcnicey pees
+ed ternal eee me ep ee eC
+fa eG cna er a cn we eC eT a
+(4 pron ae RSPAS SOc MBoy locates pareve snes CormyA ios
+aes Xeon Pama ee pa he ee
+ayes Ase let Ca OL ok atee Gin eaeetaS Ne Cee nL]
+0 Se N ee Miele Mey ace a yi, rear
+

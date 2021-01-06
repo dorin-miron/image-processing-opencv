@@ -1,18 +1,16 @@
-('=', 2)
-('ot', 2)
-('oe', 2)
-('a', 2)
-('ae', 1)
-('(a', 1)
-('ry\nr', 1)
-('Joe', 1)
-('rhs', 1)
-('teh', 1)
-('Cort\n0', 1)
-('eee\nTt', 1)
-('Tih', 1)
-('4\nBowe\n0', 1)
-('ai', 1)
-('os', 1)
-('‘ie', 1)
-('Deal', 1)
+0 Deal teaeate ‘ie a
+0 os ita
+Pee a oe oe :
+A ot ai arto 4
+Bowe
+0 im ot = = tenn Tih ad
+ss
+Moe eee
+Tt 7 Cort
+0 Eoby teh a os
+ee
+0 rhs Joe =
+0 = vps ry
+r es
+0 (a ae oe
+

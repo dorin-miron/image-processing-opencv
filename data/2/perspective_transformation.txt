@@ -1,21 +1,12 @@
-('Line;', 1)
-('CallLink', 1)
-('Health:', 1)
-('cout\nMedica', 1)
-('wow', 1)
-('or\n;', 1)
-('Providers:', 1)
-('Services:', 1)
-('or', 1)
-('900-458-5512', 1)
-('$00-364-6331\nviediva', 1)
-('Impaired:', 1)
-('of', 1)
-('952-945-8000', 1)
-('84130\nSustumer', 1)
-('Cily,', 1)
-('Sall', 1)
-('Box', 1)
-('Medica', 1)
-('MYMeEG', 1)
-('~', 1)
+Members ~ www MYMeEG ore
+claims: Medica PO Box 30990, Sall Lake Cily, UT 84130
+Sustumer Service: 952-945-8000 of 800-382-3455
+Heasing Impaired: 714
+Pharmacista: $00-364-6331
+viediva Providers: 900-458-5512 or wwwmedica.con
+Notifcation Services: 866-745-9920
+UnitedHeatthcare Providers: 877-342-3210 or
+; ; wow untodrentncarwoniine cout
+Medica Behavioral Health: 800-848-8327
+Madica CallLink Nuvse Line; 800-962-9497
+

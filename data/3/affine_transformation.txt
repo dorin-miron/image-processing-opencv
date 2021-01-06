@@ -1,310 +1,114 @@
-('of', 10)
-('the', 7)
-('to', 5)
-('se', 5)
-('a', 5)
-('ne', 4)
-('in', 4)
-('and', 4)
-('for', 4)
-('en', 4)
-('2', 3)
-('te', 3)
-('no', 3)
-('ae', 3)
-('ge', 3)
-('colored', 2)
-('Army', 2)
-('soe', 2)
-('oe', 2)
-('was', 2)
-('Sere', 2)
-('SE', 2)
-('on', 2)
-('see', 2)
-('he', 2)
-('wen', 2)
-('that', 2)
-('ing', 2)
-('NOT\n\x0c', 1)
-('That', 1)
-('Mier', 1)
-('een', 1)
-('eee', 1)
-('coe', 1)
-('Teo', 1)
-('we', 1)
-('h', 1)
-('Roce', 1)
-('since', 1)
-('wad', 1)
-('wo', 1)
-('es', 1)
-('geno', 1)
-('po', 1)
-('CENT', 1)
-('Spped', 1)
-('‘honors,', 1)
-('‘with', 1)
-('this', 1)
-('passed', 1)
-('Hie', 1)
-('umorer,', 1)
-('Mane', 1)
-('tracing', 1)
-('enrolled', 1)
-('B,', 1)
-('further', 1)
-('work', 1)
-('start', 1)
-('equld', 1)
-('Pearl', 1)
-('aes', 1)
-('ongea', 1)
-('coonree', 1)
-('severe', 1)
-('Ta', 1)
-('tor', 1)
-('COP', 1)
-('yas', 1)
-('were', 1)
-('wag', 1)
-('Cor\n\nsn', 1)
-('eke', 1)
-('er', 1)
-('Cm', 1)
-('emeron', 1)
-('noche', 1)
-('astacAIOY', 1)
-('=', 1)
-('ad', 1)
-('Sen', 1)
-('man', 1)
-('washed', 1)
-('reais', 1)
-('ore', 1)
-('‘radio', 1)
-('transferred', 1)
-('“ras', 1)
-('WES', 1)
-('bombardier\n‘Sournern', 1)
-('PREM.', 1)
-('arojnd', 1)
-('wp', 1)
-('wna', 1)
-('8S', 1)
-('Monday', 1)
-('copia.', 1)
-('payehatic', 1)
-('729', 1)
-('‘Gequadeon', 1)
-('I', 1)
-('rorned', 1)
-('Newro', 1)
-('hghly', 1)
-('Soehcato', 1)
-('18', 1)
-('Teng', 1)
-('8\n\nA', 1)
-('whoals', 1)
-('Tn', 1)
-('wa', 1)
-('sopgrionty', 1)
-('ok', 1)
-('feeling', 1)
-('powerful', 1)
-('»', 1)
-('BS', 1)
-('eed', 1)
-('orien', 1)
-('Shen', 1)
-('erase', 1)
-('ay', 1)
-('gap', 1)
-('ting', 1)
-('dive', 1)
-('SP', 1)
-('constantly', 1)
-('Frere', 1)
-('is', 1)
-('others', 1)
-('Sma,', 1)
-('sant', 1)
-('“athe', 1)
-('+0', 1)
-('th', 1)
-('Pe\n\nwar,', 1)
-('won', 1)
-('weeny', 1)
-('ghee,', 1)
-('mete', 1)
-('HE', 1)
-('unis', 1)
-('anch', 1)
-('pean', 1)
-('Snot', 1)
-('aly', 1)
-('HOt', 1)
-('‘porssit', 1)
-('Soe', 1)
-('hacking', 1)
-('|\n\nqe,', 1)
-('de', 1)
-('sores', 1)
-('PE\n\nfh', 1)
-('Core', 1)
-('tome', 1)
-('By', 1)
-('nape', 1)
-('wey', 1)
-('ESE', 1)
-('s', 1)
-('training', 1)
-('Cavanced', 1)
-('7', 1)
-('cals', 1)
-('SEN', 1)
-('Tes\n\nMagnet', 1)
-('op', 1)
-('base', 1)
-('|', 1)
-('A', 1)
-('raring', 1)
-('vo', 1)
-('branch', 1)
-('‘ee', 1)
-('aration', 1)
-('‘yar', 1)
-('shard', 1)
-('ARENT', 1)
-('real', 1)
-('trining\n\n4', 1)
-('COMBE', 1)
-('The', 1)
-('SNC.', 1)
-('Forces.\n\nseve', 1)
-('‘enfisted', 1)
-('SOE', 1)
-('Tao', 1)
-('corti', 1)
-('come', 1)
-('rave', 1)
-('TS', 1)
-('would', 1)
-('ca', 1)
-('ofa', 1)
-('oh\n\nkee', 1)
-('yerizaion', 1)
-('equesent', 1)
-('fen', 1)
-('German', 1)
-('could', 1)
-('aT', 1)
-('TRE', 1)
-('wath', 1)
-('along,', 1)
-('mai,', 1)
-('car.', 1)
-('¥\n\n\\', 1)
-('£9', 1)
-('(SePRere', 1)
-('one', 1)
-('at', 1)
-('CT', 1)
-('fed', 1)
-('eo08', 1)
-('Which', 1)
-('soldier?', 1)
-('tbe', 1)
-('Gheough', 1)
-('Med', 1)
-('ate', 1)
-('ronded', 1)
-('happen', 1)
-('ike', 1)
-('woe', 1)
-('pro,', 1)
-('38\n\n1', 1)
-('ir', 1)
-('secret', 1)
-('\\\n\n“feeeatenent”', 1)
-('question', 1)
-('not', 1)
-('Question', 1)
-('ben', 1)
-('Sad', 1)
-('weet', 1)
-('aa', 1)
-('8\n\ngen', 1)
-('services', 1)
-('sive', 1)
-('emote,', 1)
-('Tee', 1)
-('APR', 1)
-('OE\n\n4', 1)
-('gan', 1)
-('shine', 1)
-('Sted', 1)
-('sting', 1)
-('Th', 1)
-('wy', 1)
-('et\n\noi', 1)
-('yen', 1)
-('TN', 1)
-('ag', 1)
-('be', 1)
-('22\n\ney', 1)
-('seat', 1)
-('No', 1)
-('ea', 1)
-('men', 1)
-('Os', 1)
-('Sean', 1)
-('Gua\n\n1', 1)
-('Das', 1)
-('rerear', 1)
-('3988', 1)
-('Sed', 1)
-('‘Coast', 1)
-('JGR', 1)
-('than', 1)
-('mere', 1)
-('retking', 1)
-('NEGO', 1)
-('by', 1)
-('commit', 1)
-('MS', 1)
-('genes', 1)
-('+', 1)
-('ecely', 1)
-('Tang', 1)
-('erate', 1)
-('os', 1)
-('Al', 1)
-('bes', 1)
-('SO', 1)
-('grounds', 1)
-('came', 1)
-('Spe', 1)
-('Sally', 1)
-('OO\n\na', 1)
-('Col', 1)
-('nae', 1)
-('dang', 1)
-('Hove\n\nnee', 1)
-('post', 1)
-('shin', 1)
-('fend', 1)
-('erent', 1)
-('accommodations', 1)
-('Hew', 1)
-('eB', 1)
-('Sv\n,', 1)
-('SF', 1)
-('tspes', 1)
-('vs', 1)
-('ere', 1)
-('crane', 1)
-('spate', 1)
-('~\n\ncon', 1)
-('23)', 1)
+anc 23) TAM ~
+
+con eins ge MES spate crane ere SEE vs corporat tspes ined SF anotser Sv
+, cu eB ae eemese Hew rife:
+
+alread accommodations ing tase erent fend that shin post wepoet of Lost Hove
+
+nee pminsicn wen Oe dang Nea nae Merc Col en 2 OO
+
+a rt Sally Race Spe came grounds Tam SO bes Al os Oe for *08
+
+xe erate CONES Tang ee ecely Sto + omens genes he 2 MS pork
+
+Ne a a commit Bied by egies, NEGO Masen retking mere than Rponenale JGR and 8
+
+mii the Aa ‘Coast Line. TRE EM Sed for wie, 3988 UE rerear He Das wes Gua
+
+1 mt Sean Os STE men ea No RAST seat oaee 22
+
+ey rm be SRS ag ET TN Nem yen YS et
+
+oi wy Craton Th Oe sting ge oT Sted ext shine en gan een OE
+
+4 wegresion APR Miaeshell Tee Commun, emote, et sive branches of OF services 10 8
+
+gen ae aad aa weet Sar Sad ben te
+
+veoee 2 2063! Question Ra not 2 question of irequaity 7 aber \
+
+“feeeatenent” “eis no secret that HE ir Corps 38
+
+1 Saat pro, eames se 3 woe te Te
+
+aeadents ike the FOUONENE, to happen Bac ronded ate 19D Med created, te ‘eAviat
+
+Troop 18 BONS Gheough Tem tbe eslored soldier? Separuey” Which Teved: no speaBe
+
+A eo08 fed behing 2 JM CT Semrain at one en of SBE? (SePRere mnigned £9 a oad ¥
+
+\ “Fring car. in Ye mai, Toon, along, wath the TRE = Sabor the wanous aT gelde could offer
+
+to ok German fen ano equesent Be yerizaion 2nd oh
+
+kee psions ofa PEON ca eetm would PoE TS rave come 38t0
+
+‘Grove corti Tao ecesty of maken SOE ‘provisio
+
+6 ‘enfisted in the Air Forces.
+
+seve assgnmgnt of NepO SNC. se hemy to The Ak COMBE ‘oy trining
+
+4 real ote ARENT ee shard HN ‘yar aration in 08 ‘ee branch Ps
+
+fe vo amp for PNRATY raring and Gnd A Ramaclves | gReS base Ye op nes Tes
+
+Magnet 1 SEN see shoveing cals 7 Cavanced training Se s sale
+
+we ne ne ee ESE Teevige, wey AL nape on SE
+
+4 By see tome a OT Core ws PE
+
+fh ner sores ne Bp de SYREN se ascouregt |
+
+qe, erp hacking Se Soe ges ‘porssit flyers HOt aly made.ts
+
+4A Snot se pean a ge Wig anch Savadrony SE ‘
+
+Sie unis ermal HE SETS mete tne ghee, weeny fas won epee) Pe
+
+war, wheres th Sere Tongs +0 Bes “athe sant ot Sma, nas others fpr is fine
+
+A was of NEG Frere constantly USA, SP dive ting Te ne TS
+
+SS. gap wen ©. ay erase Shen te
+
+Beg orien sei eed of oe soe oe ae wees BS ‘Eghh Army in iS
+
+sider » powerful feeling ok sopgrionty 3 wa orteng Tn roan, whoals FoF 8
+
+A ‘Galeren? Teng 18 Soehcato Negron
+
+“E hghly ersined Newro sechnalogist rorned WP I AS ‘Gequadeon 18) 729 er
+
+the payehatic werd. of eS copia. His Army Sere ve Monday Teeass 8S |
+
+A wna Picking wp PARES arojnd the officers PREM. Jaa bombardier
+‘Sournern camp. WES PE “ras transferred 2 ‘radio ore .
+
+Sey reais washed ABODE soe Be man &
+
+A Sen eal ad = astacAIOY OE noche Sootherngesemar
+
+a emeron the Pass Cm er Be eke masern Cor
+
+sn tl wag Shegroes were the
+
+Maange. Hie yas se £0 COP 1k tor traning Ta ing a2 severe che
+
+4 coonree ee ongea aes on Seer Pearl Harber
+
+ve equld start work he was shipped. further en to mined colored ME
+
+Camp B, and enrolled for Seiad tracing #2 Mane of BECOFTiNE
+
+4 umorer, Hie passed this coors ‘with igh ‘honors, and ‘pare to womeh—be
+
+". 2 Feely Spped to camp, CENT Mate po colored Wares
+
+cased geno es wo te Arey SE wad since no Ne
+
+a Roce h we ee Teo coe D'S eee 26°)
+
+Scohwen een «© Mier mek That mest NOT
+

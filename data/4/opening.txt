@@ -1,26 +1,24 @@
-('|', 4)
-('H>i[2]\n\x0c', 1)
-('ere\n\n[9][2](—=', 1)
-('ce', 1)
-('eit\n\n!', 1)
-('a', 1)
-('eee\ni', 1)
-('in', 1)
-('og', 1)
-('i', 1)
-('geen\n|', 1)
-('S', 1)
-('ee\nt', 1)
-('necian', 1)
-('zy', 1)
-('ate', 1)
-('eee\n1', 1)
-("ar\n\n'", 1)
-('eta', 1)
-('=', 1)
-('oS', 1)
-('CS', 1)
-('Eases\n4', 1)
-('7B\n\ni', 1)
-('(Sees', 1)
-('I', 1)
+[a] I |
+
+. (Sees Se
+
+= | Jit 7B
+
+i Sutimree:| Eases
+4 Ta CS rie. oS hee
+1 = eta eee ar
+
+' Ane: eee
+1 Soe ate SSS
+1 zy Rest | ee
+
+Bat necian ee ee
+t POS S | geen
+| i ee og in By
+Src | Taree eee
+i a ee | fea eit
+
+! ce Reh ere
+
+[9][2](—= [HM] H>i[2]
+

@@ -1,19 +1,15 @@
-('Line:', 1)
-('CallLink', 1)
-('Hall:', 1)
-('com\n\nMedica', 1)
-('or\n\npee', 1)
-('Providers;', 1)
-('Services:', 1)
-('or', 1)
-('800-458-5512', 1)
-('800-364-6934\nMediza', 1)
-('impaired:', 1)
-('of', 1)
-('Service:', 1)
-('UT', 1)
-('Lake', 1)
-('30990,', 1)
-('PO', 1)
-('.mymedica,com\nClaims:', 1)
-('~', 1)
+Members ~ www .mymedica,com
+Claims: Medica PO Box 30990, Salt Lake Cily, UT 84130
+Custamer Service: 952-945-8000 of 800-952-3455
+
+Heasing impaired: “44
+Pharmacista: 800-364-6934
+Mediza Providers: 800-458-5512 or www.medica.con
+Notifcation Services: 866-745-9920
+UnitedHoaliheare Providers; 877-342-3210 or
+
+pee unitedhealthcareonine com
+
+Medica Behavioral Hall: 800-848-8327
+Medica CallLink Nurse Line: 809-962-9497
+

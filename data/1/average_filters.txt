@@ -1,148 +1,49 @@
-('the', 10)
-('i', 9)
-('a', 9)
-('of', 6)
-('ae', 5)
-('.', 4)
-(':', 4)
-('and', 4)
-('te', 3)
-('scale', 3)
-('', 3)
-('oe', 3)
-('‘', 2)
-('they', 2)
-('were', 2)
-('that', 2)
-('en', 2)
-('|', 2)
-('=', 2)
-('in', 2)
-('vanishing', 1)
-(',', 1)
-('our', 1)
-('andl', 1)
-('wavelet', 1)
-('bebe', 1)
-("'", 1)
-('Poa', 1)
-('ie', 1)
-('eal', 1)
-('moment', 1)
-('Ath', 1)
-('ve', 1)
-('Tague', 1)
-('(Daubechies', 1)
-('Hailes', 1)
-(';', 1)
-('corp', 1)
-('foe', 1)
-('mignicar', 1)
-('af', 1)
-('highest', 1)
-('pparccns', 1)
-('tro', 1)
-('eric', 1)
-('diy', 1)
-('perfectly', 1)
-('not', 1)
-('are', 1)
-('np', 1)
-('h', 1)
-('sen', 1)
-('for', 1)
-('hori', 1)
-('called', 1)
-('family', 1)
-('oh', 1)
-('coins', 1)
-('cue', 1)
-('ti', 1)
-('Used', 1)
-('decomposition', 1)
-('scale\nThe', 1)
-('at', 1)
-('Wh.', 1)
-('bases\nsubimages,', 1)
-('eigec', 1)
-('Note', 1)
-('tous\nwhich', 1)
-('tie', 1)
-('tor', 1)
-('outpul', 1)
-('four', 1)
-('baak', 1)
-('poss', 1)
-('Puich', 1)
-('bank', 1)
-('filter', 1)
-('as', 1)
-('used', 1)
-('was', 1)
-('B\n7.25(c)', 1)
-('hand', 1)
-('tel', 1)
-('From', 1)
-('when', 1)
-('parce', 1)
-('is', 1)
-('68d)', 1)
-('bialby', 1)
-('filtering', 1)
-('second', 1)
-('wer\ngenerated', 1)
-('comiis', 1)
-('imape)', 1)
-('size', 1)
-('4\n(now', 1)
-('an', 1)
-('kale', 1)
-('f', 1)
-('eee\nan', 1)
-('nee', 1)
-('eee', 1)
-('Ly\nee', 1)
-('oS', 1)
-('ree', 1)
-('so\n4', 1)
-('or', 1)
-('=\n;', 1)
-('a:', 1)
-('se\nF', 1)
-(';\ni', 1)
-('fe', 1)
-('be', 1)
-('I', 1)
-('es', 1)
-('a\na', 1)
-('ar', 1)
-('ed', 1)
-('-"', 1)
-('-fo°', 1)
-('oa\nf', 1)
-('Pee', 1)
-('err', 1)
-('three\n7', 1)
-('so', 1)
-('Iwo', 1)
-('cen', 1)
-('if', 1)
-('Cod', 1)
-('FS', 1)
-('om', 1)
-('aoe\nie', 1)
-('(a)', 1)
-('rape', 1)
-('*', 1)
-('—', 1)
-('PWT\n‘', 1)
-('“', 1)
-(']', 1)
-('Computinp', 1)
-('F', 1)
-('1', 1)
-('04\n;', 1)
-('jeeee', 1)
-('ed\n™', 1)
-('So', 1)
-('beanstorus', 1)
+f5 oe Wovelot beanstorus in bwolimensions  '2/
+~— = a — . ad
+4  ] So 0 ed
+™ © jeeee GUI 04
+; — 1 F * | & Computinp ae 1
+ ] @ . . “ Phrecesvale PWT
+‘ — — | * ; a $ (a) the oripiual
+= rape (a) aoe
+ie om . FS Co scale PW Cod a
+/ = if , cen eed Iwo scale PAWL
+ne so i and (cdlba three
+7 uo err scale PW,
+a a ea
+3 Pee Fe oa
+f a re
+Te -fo° _ -" "- a a
+Cee ae 7 | 7 oe ;
+Ce ed ar ” a ” a
+a es a i a S29
+‘ I ia be ;
+, fe : ;
+i i nn se
+F i ee a: :
+; oe ee en Seer =
+; ae 14 i Xe.
+| ; or ,  . so
+4 a" ree oa : cere’
+; oS i et Ly
+ee a . eee nee Seema eee
+an f Bes kale i i i an ae 3 4
+(now 1/16th of the size of the orginal imape) decotipostiion comiis Hi wer
+generated in the second filtering pass. bialby fie. 68d) is fhe parce scah
+FWT that resulted when the subimiaee From the Gpper tel hand conuy of Pie
+} B
+7.25(c) was used as the filter bank tapout. Puich poss dieoueh the fdior baak pie
+duced four quarter-size outpul diiaees that were aibsiiiend tor tie tapi tous
+which they were derived. Note the directtofial eigec of the wavehet bases
+subimages, Wi Wh. and Wi at cach scale
+The decomposition filters Used ti cue preccue coins ae psa oh a
+known family of wavelets called sytem hori for oviiuictrenb sen te E
+. . . : Besa h Ba np si
+though they are not perfectly svuueiciend diy ins eric et te ter tro EOE pparccns fie
+asymmetry and highest numiber af seuishia mignicar foe sien corp een
+. ‘ - : _ . ; , , Hailes booed
+support (Daubechies |1992]) Tague te bd ve J
+‘The Ath moment of waveler eal ie iss Poa Soe ' bea bebe Son
+scaling and wavelet functions andl our en , : . ‘ bon
+N vanishing moments
+

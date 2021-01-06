@@ -1,40 +1,27 @@
-('See', 2)
-('ee', 2)
-('te', 2)
-('soso\n\x0c', 1)
-('os', 1)
-('See\n!', 1)
-('pers', 1)
-('=“', 1)
-('eae', 1)
-('=\ni', 1)
-('a', 1)
-('=', 1)
-('ay', 1)
-('foe', 1)
-('ma', 1)
-('Soa\nI', 1)
-('GHEE', 1)
-('Bet,', 1)
-('aaa\n1', 1)
-('-_\n|', 1)
-('eee', 1)
-('-', 1)
-('J', 1)
-('——', 1)
-('So', 1)
-('pe\nSR', 1)
-('ate', 1)
-('be', 1)
-('pee', 1)
-('SS\nl', 1)
-('Tee', 1)
-('re\nt', 1)
-('SEES', 1)
-('a:\n)', 1)
-('srt\nee', 1)
-('store', 1)
-('SosRTe', 1)
-("eee\n'", 1)
-('|', 1)
-('ame', 1)
+' ame te O44 | “
+Sto eee
+' 2S SosRTe sere:
+Posia store See srt
+ee ee ee Sat a:
+) |e SEES Se re
+t =e Tee 2 SS
+l = pee ee te be ate = pe
+SR ost So eee
+ee —— _— J —
+i - ists See =a
+I See ==
+Seep eee “ete -_
+| See aaa
+1 Scena
+eS Bet, Scoot
+1 GHEE sy
+ee Soa
+I (eg ma raha foe ~-=—
+1 ay a) ee i
+1 = 7 a ita =
+i SS eae Se
+— =“ ——
+1 pers Saas
+(aurea; See
+! os p= soso
+

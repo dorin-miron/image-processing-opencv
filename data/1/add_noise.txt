@@ -1,135 +1,43 @@
-('the', 16)
-('a', 12)
-('of', 9)
-('and', 6)
-('i', 5)
-('that', 4)
-('=', 4)
-('are', 3)
-('they', 3)
-('for', 3)
-('ae', 3)
-('in', 3)
-('wavelet', 2)
-('vanishing', 2)
-('function', 2)
-('to', 2)
-('were', 2)
-('bank', 2)
-('filter', 2)
-('as', 2)
-('used', 2)
-('is', 2)
-('decomposition', 2)
-('if', 2)
-('_', 2)
-('scale', 2)
-('symilet', 1)
-('An', 1)
-('them', 1)
-('represent', 1)
-('ability', 1)
-('our', 1)
-('smoothness', 1)
-('impact', 1)
-('moments', 1)
-('dy.', 1)
-('f', 1)
-('moment', 1)
-("values\n'The", 1)
-('show', 1)
-('7.26(e)', 1)
-('[1992]).', 1)
-('non-zero\nsupport', 1)
-('5', 1)
-('.', 1)
-('which', 1)
-('m', 1)
-('{he', 1)
-('compact', 1)
-('given', 1)
-('number', 1)
-('highest', 1)
-('support', 1)
-('least', 1)
-('have', 1)
-('designed', 1)
-('perfectly', 1)
-('not', 1)
-('Recall', 1)
-('wavelets.”', 1)
-('short', 1)
-('called', 1)
-('family', 1)
-('part', 1)
-('example', 1)
-('preceding', 1)
-('scale.', 1)
-('at', 1)
-('Wj),', 1)
-('nature', 1)
-('Note', 1)
-('input', 1)
-('substituted', 1)
-('output', 1)
-('four', 1)
-('through', 1)
-('pass', 1)
-('Each', 1)
-('was', 1)
-('corner', 1)
-('from', 1)
-('when', 1)
-('7.25(d)', 1)
-('Finally,', 1)
-('filtering', 1)
-('second', 1)
-('original', 1)
-('size', 1)
-('1/16th', 1)
-('ak', 1)
-('|', 1)
-('nae', 1)
-('sot', 1)
-('H', 1)
-('A', 1)
-('thee\na', 1)
-('Ce', 1)
-('7', 1)
-('ee', 1)
-('eee', 1)
-('aoe', 1)
-('roe', 1)
-('an', 1)
-('_\nene', 1)
-('shee', 1)
-('a\nTa', 1)
-('-', 1)
-('—_—', 1)
-('fo”', 1)
-('Pa', 1)
-('we', 1)
-('ie', 1)
-('two-scale', 1)
-(':', 1)
-('(c)', 1)
-('it', 1)
-('oo', 1)
-('image;', 1)
-('Gea', 1)
-('CRAIN]', 1)
-('three-scale', 1)
-('*', 1)
-('i.', 1)
-('os', 1)
-('Computing', 1)
-('Y', 1)
-('my', 1)
-('7.25\nwi', 1)
-('Z', 1)
-('oes', 1)
-('le', 1)
-('oe', 1)
-('Dimensions', 1)
-('Transforms', 1)
-('@', 1)
+7.5 @ Wavelet Transforms in Two Dimensions 527
+oe sie ca
+i oe * © le oes i FIGURE 7.25
+- dies. ee wa 1#ee#e@ Computing a2-D
+* s * * * i“ * three-scale FWT:
+aa al — — a i | (a) the original
+spe crac manda aaah image; (b) a one-
+oe So — A 7 scale FWT; (c) a
+. a *. : two-scale FWT;
+- i = le we and (d) a three-
+, Pa po. scale FWT.
+a ——— foe gee
+u = a _— toi : i , e
+ra 7 = _ oS shee [2=5e | . _ - _
+eee e a. oe an ren
+oe ae eee ee ees ee i
+a 7 ae i pom |
+. ne a SEE
+| mp
+| oe
+Hl i . 1 | i ;
+i ot seat ae af i | ak eae
+(now 1/16th of the size of the original image) decomposition results that were
+generated in the second filtering pass. Finally, Fig. 7.25(d) is the three-scale
+FWT that resulted when the subimage from the upper-left-hand corner of Fig.
+7.25(c) was used as the filter bank input. Each pass through the filter bank pro-
+duced four quarter-size output images that were substituted for ihe input from
+which they were derived. Note the directioffal nature of the wavelet-based
+subimages, Wj), Wy, and W?, at cach scale.
+The decomposition filters used in the preceding example are part of a well-
+known family of wavelets called sym/ets, short for “symmetrical wavelets.” Al-
+
+“ . . Recall that the compact
+though they are not perfectly symmetrical, they are designed to have the least support ofa function is
+asymmetry and highest number of vanishing moments’ for a given compact — {he Mterval m which the
+
+: 5 . a 5 function has non-zero
+support (Daubechies [1992]). Figures 7.26(e) and (1) show the fourth-order — saiues
+'The kth moment of wavelet ¢i(x) isam(k) = f x'dlxy dy. Zero moments impact the smoothness of the
+
+scaling and wavelet functions and our ability to represent them as polynomials. An order-N symilet has
+N vanishing moments.
+

@@ -1,65 +1,39 @@
-('a', 6)
-('ae', 4)
-('fe', 2)
-('5', 2)
-('os', 2)
-('oes', 2)
-('faalon)[$)\n\x0c', 1)
-('=', 1)
-('pLHRAR\n[||', 1)
-('mre', 1)
-('id', 1)
-('aye', 1)
-('ints', 1)
-('gee', 1)
-('flea', 1)
-('aa', 1)
-('x', 1)
-('at', 1)
-('pee', 1)
-('ee\nd', 1)
-('Gea.', 1)
-('“pr', 1)
-('cesta', 1)
-('on', 1)
-('eth', 1)
-(':\nz', 1)
-('eee:', 1)
-('7', 1)
-('adenine', 1)
-('oe', 1)
-('ome', 1)
-('>', 1)
-('Ra', 1)
-('ie', 1)
-('eye', 1)
-('in', 1)
-('een', 1)
-(':', 1)
-('Ecce', 1)
-('siya', 1)
-('=e', 1)
-("pecan:\n'", 1)
-('SE', 1)
-('or', 1)
-('of', 1)
-('re', 1)
-('serkierts\nI', 1)
-('ac', 1)
-('eater', 1)
-('paces', 1)
-('armas', 1)
-('see', 1)
-('ee', 1)
-('ae\nc', 1)
-('cnrepee', 1)
-('i', 1)
-('an', 1)
-('as', 1)
-('sb\nc', 1)
-('neat', 1)
-('ee\n1', 1)
-('Ee', 1)
-('18', 1)
-('a\n1', 1)
-('ss...', 1)
+[ale
+=
+ee.
+4 ss... =
+J a
+1 - 18 a
+ee
+t Ee ada ee
+1 = 5 neat 2
+J ae ee
+D oes eee sb
+c Soe as r
+q an See i eStats:
+1 cnrepee ae
+ene ee Tee ae
+c ee see beeen
+E armas | paces ‘a
+7 os eater - ac Bae serkierts
+I re = of omy or | SE 5 pecan:
+' Seen =e Es siya tern
+Brees Ecce 7 : =
+met” een in cae eye eB
+OR a Ts
+i 5 ie dicen Ra ee
+a > ei ome mf
+Bebe, oe 2! = ae adenine :
+Paco a * 7 a a
+J ae Sea eee: . :
+z Sees eth | on 1
+She cesta Ie “pr oes ent
+4 Gea. a oon ee
+d a pee eee ae at fe —
+= fe oa x 9 aa flea gee PS
+i ints aye be
+me id Alkane a ye
+ye mre peti
+Se pLHRAR
+[|| os = faalon)[$)
+

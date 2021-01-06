@@ -1,98 +1,32 @@
-('the', 12)
-('of', 8)
-('a', 4)
-('and', 3)
-('ee', 3)
-('in', 3)
-('wavelet', 2)
-('to', 2)
-('are', 2)
-('bank', 2)
-('filter', 2)
-('as', 2)
-('used', 2)
-('is', 2)
-('that', 2)
-('decomposition', 2)
-('i', 2)
-('er', 2)
-('symiet', 1)
-('An', 1)
-('them', 1)
-('represent', 1)
-('ability', 1)
-('our', 1)
-('smoothness', 1)
-('impact', 1)
-('moments', 1)
-('dx.', 1)
-('=f', 1)
-('moment', 1)
-('Ath', 1)
-('ere', 1)
-('Buea', 1)
-('CEC', 1)
-('Me', 1)
-('Gk', 1)
-('mee', 1)
-('which', 1)
-('Sierulin', 1)
-('compact', 1)
-('given', 1)
-('for', 1)
-('vanishing', 1)
-('number', 1)
-('highest', 1)
-('function', 1)
-('support', 1)
-('least', 1)
-('have', 1)
-('designed', 1)
-('they', 1)
-('symmetrical,', 1)
-('se', 1)
-('Roa', 1)
-('ld', 1)
-('Bie', 1)
-('part', 1)
-('example', 1)
-('preceding', 1)
-('oe', 1)
-('eon)', 1)
-('Ae', 1)
-('Cd', 1)
-('Ce', 1)
-('eR', 1)
-('Bite', 1)
-('bo', 1)
-('ete', 1)
-('through', 1)
-('pass', 1)
-('Each', 1)
-('was', 1)
-('corner', 1)
-('from', 1)
-('when', 1)
-('7.25(d)', 1)
-('Finally,', 1)
-('filtering', 1)
-('second', 1)
-('original', 1)
-('size', 1)
-('Peers\n(now', 1)
-('“.\na', 1)
-('D', 1)
-(':', 1)
-('a\n|', 1)
-('ot', 1)
-('---]', 1)
-('eH', 1)
-('pr\n2', 1)
-('(a)', 1)
-('Ty\n‘||', 1)
-('Ge', 1)
-('o', 1)
-('ean', 1)
-('Dimensions', 1)
-('Transforms', 1)
-('@', 1)
+;
+7.5 @ Wavelet Transforms in Two Dimensions 527
+ots ean er i.
+an o (9000 Ge Ee
+Computing a 2-D
+eoao0O0lco: Ty
+‘|| *@Q°* (a) the original
+a pr
+2 ee eH OE)
+os ee :
+esse ---] 2 ot Pea
+(ee a
+| a cl
+l : D . “.
+a i ee
+ears Peers
+(now 1/16th of the size of the original image) decomposition results that were
+generated in the second filtering pasa Finally, Fig. 7.25(d) is the three-scale
+FWT that resulted when the subimage from the upper-left-hand corner of Fig.
+7.25(c) was used as the filter bank input. Each pass through the filter bank pro-
+Pir ete bo Pie er Bm Bite ive)
+ey ee Me eR eet Ce Mc Cd ea
+Pm Ae eae eon) oe m
+The decomposition filters used in the preceding example are part of a well-
+pee ee hte i TC Bie RT ld |
+Pot Roa emg se loth symmetrical, they are designed to have the least support of « function is
+asymmetry and highest number of vanishing moments’ for a given compact { Sierulin which the
+Pee mee Ue Gk AD Me Wer CEC ROPE Buea ere ae
+ihe Ath moment of wavelet (x) is ar(k) =f x“(x) dx. Zero moments impact the smoothness of the
+scaling and wavelet functions and our ability to represent them as polynomials. An order-N symiet has
+Ry
+

@@ -1,15 +1,13 @@
-(':', 2)
-('ora\n.', 1)
-('onan\n=', 1)
-('cin\n:', 1)
-('cat', 1)
-('ot\n*', 1)
-('1\n:', 1)
-('antes', 1)
-("'\n3,", 1)
-('be', 1)
-('tan', 1)
-('wt', 1)
-('te', 1)
-('van', 1)
-('bs', 1)
+“ bs van te ‘ : : wt tan be tes
+0 '
+3, antes beeen
+vison : aunts 1
+: “ ot
+* cat oH
+: cin
+: onsets
+tatsebaees
+1 onan
+= : ora
+. orsiapt
+
